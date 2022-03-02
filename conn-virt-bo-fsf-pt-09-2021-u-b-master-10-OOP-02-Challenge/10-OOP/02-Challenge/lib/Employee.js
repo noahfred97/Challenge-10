@@ -4,7 +4,7 @@ class Employee {
         this.empID = empID;
         this.email = email;
     }
-    // getting data from user input to prompts 
+    // getting data from what user inputs and makes prompts
     getName () {
         return this.name;
     }

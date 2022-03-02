@@ -1,17 +1,17 @@
 const Employee = require("./Employee");
 
-// Intern constructor 
+// Constructs the intern
 class Intern extends Employee{
     constructor (name, empID, email, school) {
       super(name, empID, email)
         this.school = school; 
     }
-    // returning school from input 
+    // Returns school from input
     getSchool () {
         return this.school;
     }
 
-    // override employee Role 
+    // Overrides employee role
     getRole () {
         return "Intern";
     }

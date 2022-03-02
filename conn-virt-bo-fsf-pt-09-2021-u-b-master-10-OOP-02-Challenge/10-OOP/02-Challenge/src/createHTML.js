@@ -49,7 +49,7 @@ const createHTML = data =>{
         const employee = data[i];
         const role = employee.getRole(); 
 
-        // call manager function
+        // calls the manager function
         if (role === 'Manager') {
             const mgrCard = generateManager(employee);
 
