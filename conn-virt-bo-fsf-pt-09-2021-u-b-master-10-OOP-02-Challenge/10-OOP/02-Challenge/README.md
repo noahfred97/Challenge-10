@@ -11,7 +11,7 @@
 
   ## Table of Contents
 
-## installation
+## Installation
 ### Log in through the dashboard, then use the Nav bar to navigate between your dashboard, the forum itself, and the comments on each post!
   ## Contributing
 ### Noah Negron
