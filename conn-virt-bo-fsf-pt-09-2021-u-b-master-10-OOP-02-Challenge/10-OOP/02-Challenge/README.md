@@ -10,10 +10,9 @@
   - Node.js
 
   ## Table of Contents
+
+## installation
 ### Log in through the dashboard, then use the Nav bar to navigate between your dashboard, the forum itself, and the comments on each post!
   ## Contributing
-  ### Noah Negron
-  ## Screenshot
-   ### ![Imgur](https://imgur.com/GRwG9Wz.png)
-  ## Questions
-  ### <a href="https://www.github.com/trm621">trm621</a>
+### Noah Negron
+
